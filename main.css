@@ -2,7 +2,7 @@
     height:2000px;
 }
 .nav{
-    min-height:42px;
+    min-height:50px;
     display:flex;
     background-color:orange;
     justify-content:space-around; /* phân phối khoảng cách trống giữa các phần tử con dọc theo trục chính*/
