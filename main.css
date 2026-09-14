@@ -13,8 +13,8 @@
 
 }
 .nav-item{
+    display:inline-block; /*Biến các thẻ chữ thành dạng khối */
     list-style:none; /* xóa bỏ các dấu chấm của thẻ ul*/
     color:#fff;
     margin:0 8px; /* giãi cách cách thẻ li trên-dưới=0.trái-phải=8px*/
-    display:inline-block;
 }
