@@ -13,7 +13,7 @@
 
 }
 .nav-item{
-    list-style:none; /* lược bỏ các dấu chấm của thẻ ul*/
+    list-style:none; /* xóa bỏ các dấu chấm của thẻ ul*/
     color:#fff;
     margin:0 8px; /* gãi cách cách thẻ li trên-dưới=0.trái-phải=8px*/
     display:inline-block;
