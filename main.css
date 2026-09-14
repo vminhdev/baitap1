@@ -2,10 +2,10 @@
     height:2000px;
 }
 .nav{
-    min-height:50px;
-    display:flex;
+    min-height:50px;/*chiều cao tối tiểu 50,sẽ tự động cao thêm nếu nội dung nhiều hơn hoặc bị tràn xuống*/
+    display:flex;/* Kích hoạt Flexbox,các phần tử con xếp thành hàng ngang*/
     background-color:orange;
-    justify-content:space-around; /* phân phối khoảng cách trống giữa các phần tử con dọc theo trục chính*/
+    justify-content:space-around; /* phân phối không gian trống giữa 2 khối ul*/
 }
 .nav-list{
     padding-left:0; /* đặt độ rộng của phần đệm bên trái=0 */
