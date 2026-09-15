@@ -38,8 +38,9 @@ body{
     display: flex;
 }
 .form-label{
-    min-width: 100px;;
+    min-width: 100px;
 }
 .form-input{
+    min-width: 10px;
 
 }
