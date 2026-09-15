@@ -75,12 +75,15 @@ button:hover{
 }
 .khung-van-ban-1{
     background-color:rgb(117, 191, 139);
+    padding:12px;
 }
 .khung-van-ban-2{
     background-color:rgb(179, 173, 106);
+    padding:12px;
     
 }
 .khung-van-ban-3{
     background-color:rgb(133, 91, 136);
+    padding:12px;
     
 }
