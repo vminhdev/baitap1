@@ -95,7 +95,7 @@ button:hover{
     height:300px;
     background-color:#fff;
     display:flex;
-    align-self: flex-end;
+    align-items: flex-end;
     justify-content: space-around;
 }
 .chart-layout-item{
