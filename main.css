@@ -101,7 +101,7 @@ button:hover{
     width:60px;
     height:var(--percent);
     color:#fff;
-    align-self: flex-end;
+    align-self: flex-start;
     background-color:orange;
     text-align: center;
 
