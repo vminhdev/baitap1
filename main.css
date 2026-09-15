@@ -50,4 +50,7 @@ body{
     display:flex;
     justify-content: space-around;
 
-}    
+}  
+.sp-1 > img{
+    width:200px;
+}
