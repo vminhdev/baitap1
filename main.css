@@ -103,7 +103,7 @@ button:hover{
     color:#fff;
     background-color:orange;
     text-align: center;
-    animation: lon-len ease-in 2s;
+    animation: lon-len ease-in 2s forwards; 
 }
 @keyframes lon-len{
     from{
