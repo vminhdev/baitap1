@@ -95,3 +95,10 @@ button:hover{
     height:300px;
     background-color:#fff;
 }
+.chart-layout-item{
+    width:60px;
+    color:#fff;
+    background-color:orange;
+    text-align: center;
+    
+}
