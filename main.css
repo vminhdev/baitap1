@@ -1,6 +1,5 @@
-a /* đặt độ rộng của phần đệm bên trái=0 */
-    margin:16px; /* tạo khoảng cách xung quanh phàn tử 16px*/
-
+body{
+    background-color:#dedbdb
 }
 .nav-item{
     display:inline-block; /*Biến các thẻ chữ thành dạng khối */
