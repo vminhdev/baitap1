@@ -71,7 +71,7 @@ button:hover{
     display:flex;
     padding:12px 12px;
     margin-top:30px;
-    border-radius:;
+    justify-content: space-around;
 }
 .khung-van-ban-1{
     background-color:rgb(117, 191, 139);
