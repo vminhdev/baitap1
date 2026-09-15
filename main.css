@@ -48,18 +48,10 @@ body{
 .sp-1 > img{
     width:200px;
 }
-.sp-1{
-    flex:1;
-}
 .sp-2 > img{
     width:200px;
 }
-.sp-2{
-    flex:3;
-}
+
 .sp-3 > img{
     width:200px;
-}
-.sp-3{
-    flex:1;
 }
