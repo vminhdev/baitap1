@@ -1,6 +1,13 @@
 body{
     background-color:#dedbdb
 }
+.nav{
+    min-height:50px;
+    width:100%;
+    background-color:orange;
+    display:flex;
+    justify-content: space-around;
+}
 .nav-item{
     display:inline-block; /*Biến các thẻ chữ thành dạng khối */
     list-style:none; /* xóa bỏ các dấu chấm của thẻ ul*/
