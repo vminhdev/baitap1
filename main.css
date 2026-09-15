@@ -94,11 +94,12 @@ button:hover{
     padding:35px 0;
     height:300px;
     background-color:#fff;
+    display:flex;
 }
 .chart-layout-item{
     width:60px;
     color:#fff;
     background-color:orange;
     text-align: center;
-    
+
 }
