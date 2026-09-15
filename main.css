@@ -30,3 +30,7 @@
     margin:36px auto auto;
     background-color:#333;
 }
+.from-row{
+    padding:8px 0;
+    display: inline-flex;
+}
