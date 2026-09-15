@@ -5,8 +5,8 @@ body{
     min-height:50px;
     width:100%;
     background-color:orange;
-    display:flex;
-    justify-content: space-around;
+    display:flex;/*bật hệ thống bố cục flexbox,nằm dàn hàng ngang */
+    justify-content: space-around; /* chia đều khoảng cách xung quanh các thẻ con*/
     padding:8px;
 }
 .nav-item{
