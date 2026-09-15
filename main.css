@@ -32,5 +32,5 @@
 }
 .from-row{
     padding:8px 0;
-    display: inline-flex;
+    display: flex;
 }
