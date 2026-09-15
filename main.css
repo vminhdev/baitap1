@@ -52,7 +52,14 @@ body{
 .sp-2 > img{
     width:200px;
 }
-
 .sp-3 > img{
     width:200px;
+}
+button{
+    background-color:rgb(80, 80, 211);
+}
+button:hover{
+    background-color:blue;
+    color:#fff;
+
 }
