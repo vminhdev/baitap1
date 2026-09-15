@@ -103,14 +103,15 @@ button:hover{
     color:#fff;
     background-color:orange;
     text-align: center;
+    animation: lon-len ease-in 2s;
 }
 @keyframes lon-len{
     from{
         opacity:0;
-        height:50%
+        height:calc(var(--percent) - 50%);
     }
     to{
         opavity:1;
-        height:100%;
+        height:calc(var(--percent));
     }
 }
