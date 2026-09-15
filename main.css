@@ -18,19 +18,15 @@
     color:#fff;
     margin:0 8px; /* giãi cách cách thẻ li trên-dưới=0.trái-phải=8px*/
 }
-i {
-    font-size: 28px;    /* Phóng to icon lên 28px */
-    color: #ff4757;     /* Đổi icon sang màu đỏ hồng */
-    transition: 0.3s;   /* Thêm hiệu ứng mượt mà khi hover */
-}
-
-/* Hiệu ứng đổi màu khi di chuột vào icon */
-i:hover {
-    color: #2ed573;     /* Đổi sang màu xanh lá */
-    transform: scale(1.2); /* Phóng to nhẹ icon khi hover */
-}
 .nav-item-2{
     background-color:blue;
     color:#fff;
     margin-left: px;
+}
+/*from layout*/
+.from-container{
+    max-width:1000px;
+    padding:32px;
+    margin:36px auto auto;
+    background-color:#333;
 }
