@@ -6,7 +6,6 @@
     display:flex;/* Kích hoạt Flexbox,các phần tử con xếp thành hàng ngang*/
     background-color:orange;
     justify-content:space-around; /* phân phối không gian trống giữa 2 khối ul*/
-    position:absolute;
 }
 .nav-list{
     padding-left:0; /* đặt độ rộng của phần đệm bên trái=0 */
