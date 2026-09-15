@@ -67,3 +67,6 @@ button:hover{
     color:#fff;
 }
 /*khung văn bản */
+.khung-van-ban{
+    display:flex;
+}
