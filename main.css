@@ -7,6 +7,7 @@ body{
     background-color:orange;
     display:flex;
     justify-content: space-around;
+    padding:8px;
 }
 .nav-item{
     display:inline-block; /*Biến các thẻ chữ thành dạng khối */
