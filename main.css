@@ -24,13 +24,13 @@
     margin-left: px;
 }
 /*from layout*/
-.from-container{
+.form-container{
     max-width:1000px;
     padding:32px;
     margin:36px auto auto;
     background-color:#333;
 }
-.from-row{
+.form-row{
     padding:8px 0;
     display: flex;
 }
