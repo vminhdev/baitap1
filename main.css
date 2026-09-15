@@ -99,6 +99,7 @@ button:hover{
 }
 .chart-layout-item{
     width:60px;
+    height:var(--percent);
     color:#fff;
     background-color:orange;
     text-align: center;
