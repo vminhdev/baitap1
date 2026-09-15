@@ -46,7 +46,7 @@ body{
     margin-top:20px;
     display:flex;
     justify-content: space-around;
-    flex-wrap: wrap;
+    flex-wrap: wrap;/*Cho phép các phần tử con tự động xuống dòng mới khi hàng ngang hết chỗ*/
 }  
 .sp-1 > img{
     width:200px;
