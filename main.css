@@ -103,7 +103,7 @@ button:hover{
     color:#fff;
     background-color:orange;
     text-align: center;
-    animation: lon-len ease-in 2s ; /*kích hoạt chuỗi chuyển động hoạt hình cho các cột biểu đồ */
+    animation: lon-len ease-in 2s infinite ; /*kích hoạt chuỗi chuyển động hoạt hình cho các cột biểu đồ */
 }
 @keyframes lon-len{
     from{ /*star*/
