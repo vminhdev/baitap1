@@ -42,5 +42,11 @@ body{
 }
 .form-input{
     flex:1;
-
 }
+.box-2{
+    background-color:#fff;
+    padding:20px;
+    margin-top:20px;
+    display:flex;
+
+}    
