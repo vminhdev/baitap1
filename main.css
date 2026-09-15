@@ -70,3 +70,14 @@ button:hover{
 .khung-van-ban{
     display:flex;
 }
+.khung-van-ban-1{
+    background-color:rgb(89, 141, 89);
+}
+.khung-van-ban-2{
+    background-color:rgb(150, 103, 150);
+    
+}
+.khung-van-ban-3{
+    background-color:rgb(144, 125, 91);
+    
+}
