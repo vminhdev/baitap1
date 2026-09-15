@@ -1,5 +1,5 @@
 .box{
-    height:2000px;
+    height:900px;
 }
 .nav{
     min-height:50px;/*chiều cao tối tiểu 50,sẽ tự động cao thêm nếu nội dung nhiều hơn hoặc bị tràn xuống*/
