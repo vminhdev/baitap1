@@ -57,3 +57,6 @@ body{
 .sp-1{
     
 }
+.sp-2 > img{
+    width:200px;
+}
