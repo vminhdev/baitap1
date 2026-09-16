@@ -105,7 +105,7 @@ button:hover{
     color:#fff;
     background-color:orange;
     text-align: center;
-    animation: lon-len ease-in 5s infinite ; /* (infinite-lập lại chuyển động)kích hoạt chuỗi chuyển động hoạt hình cho các cột biểu đồ */
+    animation: lon-len ease-in 3s infinite ; /* (infinite-lập lại chuyển động)kích hoạt chuỗi chuyển động hoạt hình cho các cột biểu đồ */
 }
 @keyframes lon-len{
     from{
