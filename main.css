@@ -109,11 +109,12 @@ button:hover{
 }
 @keyframes lon-len{
     from{
-        opacity:0.5;
-        height:calc(var(--percent)-200px);
+        opacity:0;
+        height:calc(var(--percent) - 200px);
     }
     to{
         opacity:1;
-        heightL:calc(var(--percent));
+        height:calc(var(--percent));
+
     }
 }
