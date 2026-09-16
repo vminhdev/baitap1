@@ -110,7 +110,7 @@ button:hover{
 @keyframes lon-len{
     from{
         opacity:0;
-        height:calc(var(--percent) - 200px);
+        height:calc(var(--percent) - 100%);
     }
     to{
         opacity:1;
