@@ -107,13 +107,12 @@ button:hover{
     text-align: center;
     animation: lon-len ease-in 2s infinite ; /* (infinite-lập lại chuyển động)kích hoạt chuỗi chuyển động hoạt hình cho các cột biểu đồ */
 }
-@keyframes lon-len{ /*tạo hiệu ứng chuyển động*/
-    from{ /*star*/
-        opacity:0;
-        height:calc(var(--percent) - 200px);/*lấy giá trị ở hàm var và - đi px để lấy được điểm bắt đầu khi cột chạy*/
+@keyframes lon-len{
+    from{
+        opacity:0.5;
+        height:calc(var(--percent)-200px);
     }
-    to{/*end*/
-        opacity:1;
-        height:calc(var(--percent));/*điểm kết thúc*/
+    to{
+
     }
 }
