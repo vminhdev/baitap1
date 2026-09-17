@@ -143,6 +143,7 @@ button:hover{
     background-color:#fff;
     margin-top:50px;
     display:flex;
+    justify-content: center;
 }
 .btn{
 
