@@ -130,9 +130,9 @@ button:hover{
 
 }
 .product-item{
+    padding:20px;
     width: 300px;
     height:100px;
     background-color:orange;
-    
     border-radius: 15px;
 }
