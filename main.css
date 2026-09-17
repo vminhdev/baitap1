@@ -123,6 +123,7 @@ button:hover{
     background-color: antiquewhite;
     display:flex;
     justify-content: space-between;
+    align-items: stretch;
 }
 .item1, .item2, .item3, .item4, .item5, .item6, .item7{
      width:10%;
