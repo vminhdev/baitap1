@@ -117,8 +117,14 @@ button:hover{
         height:calc(var(--percent));/*điểm kết thúc*/
     }
 }
-.container {
-    max-width: 1000px;
-    margin: 20px auto;
-    padding: 0 15px;
+.container{
+    width: 100%;
+    min-height: 70px;
+    background-color:#fff;
+}
+.form{
+    display:flex;
+}
+.item{
+    background-color:green;
 }
