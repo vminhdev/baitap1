@@ -122,3 +122,9 @@ button:hover{
     margin: 20px auto;
     padding: 0 15px;
 }
+.product-item {
+    background: #fff;
+    padding: 20px;
+    border: 1px solid #ddd;
+    width: 300px; /* Độ rộng cố định của mỗi card sản phẩm */
+}
