@@ -122,10 +122,9 @@ button:hover{
     min-height:70px;
     background-color:#fff;
 }
-.product-grid { 
-    display: flex;
-    flex-wrap: wrap; /* Nên thêm dòng này để khi hết chỗ nó tự động xuống hàng tiếp theo */
-    gap: 15px;       /* Thêm khoảng cách giữa các ô cho đẹp mắt */
+.product-grid{
+    display:flex ;
+    flex-wrap: wrap;
 }
 .product-item{
     width: 300px;
