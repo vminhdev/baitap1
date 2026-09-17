@@ -117,14 +117,8 @@ button:hover{
         height:calc(var(--percent));/*điểm kết thúc*/
     }
 }
-.container{
-    width: 100%;
-    min-height: 70px;
-    background-color:#fff;
-}
-.form{
-    display:flex;
-}
-.item{
-    background-color:green;
+.container {
+    max-width: 1000px;
+    margin: 20px auto;
+    padding: 0 15px;
 }
