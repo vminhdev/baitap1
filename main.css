@@ -120,8 +120,8 @@ button:hover{
 .container{
     width: 100%;
     min-height:70px;
+    background-color:#fff;
 }
 .product-grid{
     display:flex ;
-    background-color:#fff;
 }
