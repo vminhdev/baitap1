@@ -117,20 +117,3 @@ button:hover{
         height:calc(var(--percent));/*điểm kết thúc*/
     }
 }
-.container {
-    max-width: 1000px;
-    margin: 20px auto;
-    padding: 0 15px;
-}
-.product-item {
-    background: #fff;
-    padding: 20px;
-    border: 1px solid #ddd;
-    width: 300px; /* Độ rộng cố định của mỗi card sản phẩm */
-}
-.product-grid {
-    height: 500px;
-    background-color: #e2e8f0;
-    padding: 20px;
-    /* VIẾT CODE FLEXBOX CỦA BẠN Ở ĐÂY */
-}
