@@ -117,17 +117,49 @@ button:hover{
         height:calc(var(--percent));/*điểm kết thúc*/
     }
 }
-.container{
+/* Khung bọc giới hạn độ rộng trang web */
+.container {
     width: 100%;
-    min-height:70px;
-    background-color:#fff;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
 }
-.product-grid{
-    display:flex ;
-    flex-wrap: wrap;
+
+/* KHUNG CHA (Kích hoạt Flexbox tại đây) */
+.product-grid {
+    display: flex;
+    flex-wrap: wrap;       /* BẮT BUỘC: Giúp các item tự động dàn hàng ngang và xuống dòng */
+    gap: 20px;             /* Tạo khoảng cách đều nhau giữa các ô sản phẩm */
+    padding: 10px 0;
 }
-.product-item{
-    width: 300px;
-    height:100px;
-    background-color:orange;
+
+/* THẺ CON (Các ô sản phẩm) */
+.product-item {
+    background-color: orange;
+    padding: 20px;
+    border-radius: 4px;    /* Bo góc nhẹ cho các ô nhìn đẹp hơn */
+    
+    /* 1. Kích thước chiều rộng */
+    width: 300px;          /* Cố định 300px như bạn mong muốn */
+    
+    /* 2. Giải pháp co giãn chiều cao khi chữ dài */
+    min-height: 120px;     /* Chiều cao tối thiểu, ít chữ vẫn vuông vắn */
+    height: auto;          /* Để auto giúp Sản phẩm 2 tự phình cao lên ôm trọn chữ */
+}
+
+/* Định dạng chữ bên trong các ô sản phẩm cho dễ nhìn */
+.product-item h3 {
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+
+.product-item p {
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+/* Định dạng cho thẻ .box đơn lẻ ở cuối file HTML của bạn (nếu cần) */
+.box {
+    margin-top: 30px;
 }
