@@ -120,4 +120,5 @@ button:hover{
 .container{
     width: 100%;
     min-height: 70px;
+    background-color:#fff;
 }
