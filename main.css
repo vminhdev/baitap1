@@ -142,6 +142,6 @@ button:hover{
     height:200;
 }
 .btn{
-    display:flex;
+    display: inline-block;
     justify-content: center;
 }
