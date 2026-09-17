@@ -125,7 +125,7 @@ button:hover{
 }
 .item1, .item2, .item3, .item4, .item5, .item6, .item7{
      width: 50%;
-     height: 50%;
+     height: 50px;
      color:#fff;
      background-color:#333; 
 }
