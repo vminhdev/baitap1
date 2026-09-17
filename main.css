@@ -142,8 +142,8 @@ button:hover{
     height:200px;
     background-color:#fff;
     margin-top:50px;
+    display:flex;
 }
 .btn{
-    display:inline-flex ;
-    text-align: center;
+
 }
