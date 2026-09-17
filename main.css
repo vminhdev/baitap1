@@ -124,7 +124,7 @@ button:hover{
 }
 .product-grid{
     display:flex ;
-    flex-wrap: ;
+    flex-wrap:wrap;
 }
 .product-item{
     width: 300px;
