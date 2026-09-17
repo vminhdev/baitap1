@@ -122,12 +122,10 @@ button:hover{
     height: 100px;
     background-color: antiquewhite;
     display:flex;
-    justify-content: space-between;
-    align-items:stretch;
 }
 .item1, .item2, .item3, .item4, .item5, .item6, .item7{
      width: 50%;
      height: 50%;
      color:#fff;
-     background-color:#333;
+     background-color:#333; 
 }
