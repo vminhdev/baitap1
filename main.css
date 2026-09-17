@@ -120,8 +120,8 @@ button:hover{
 .container{
     width: 300px;
     height: 300px;
-    align-content:normal;
     display:flex;
+    align-content:flex-start;
     flex-wrap: wrap;
     background-color: antiquewhite;
 }
