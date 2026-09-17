@@ -130,7 +130,8 @@ button:hover{
 
 }
 .product-item{
-    justify-content: center;
+    display:flex;
+    flex-direction: column;
     margin:10px;
     width: 300px;
     height:100px;
