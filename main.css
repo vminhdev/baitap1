@@ -139,5 +139,7 @@ button:hover{
 }
 .dau{
     display:flex;
+    align-items:center ;
+
     
 }
