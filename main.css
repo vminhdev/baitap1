@@ -122,3 +122,9 @@ button:hover{
     min-height: 70px;
     background-color:#fff;
 }
+.form{
+    display:flex;
+}
+.item{
+    
+}
