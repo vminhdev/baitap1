@@ -117,3 +117,7 @@ button:hover{
         height:calc(var(--percent));/*điểm kết thúc*/
     }
 }
+.container{
+    width: 100%;
+    min-height: 70px;
+}
