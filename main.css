@@ -130,7 +130,7 @@ button:hover{
 
 }
 .product-item{
-    padding:20px;
+    margin:10px;
     width: 300px;
     height:100px;
     background-color:orange;
