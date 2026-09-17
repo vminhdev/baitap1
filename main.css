@@ -126,7 +126,7 @@ button:hover{
     align-items: stretch;
 }
 .item1, .item2, .item3, .item4, .item5, .item6, .item7{
-     width:10%;
+     width:auto;
      height:auto;
      color:#fff;
      background-color:#333; 
