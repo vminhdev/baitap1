@@ -116,59 +116,9 @@ button:hover{
         opacity:1;
         height:calc(var(--percent));/*điểm kết thúc*/
     }
-/* CSS định dạng cơ bản (Không sửa đoạn này) */
-* {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-    font-family: Arial, sans-serif;
-}
-body {
-    background-color: #f4f4f4;
 }
 .container {
     max-width: 1000px;
     margin: 20px auto;
     padding: 0 15px;
-}
-.logo {
-    font-size: 24px;
-    font-weight: bold;
-    color: #fff;
-}
-.nav-links a {
-    color: #fff;
-    text-decoration: none;
-    margin-left: 20px;
-}
-.product-item {
-    background: #fff;
-    padding: 20px;
-    border: 1px solid #ddd;
-    width: 300px; /* Độ rộng cố định của mỗi card sản phẩm */
-}
-
-/* ======================================================== */
-/*  Nhiệm vụ của bạn: Hãy viết các thuộc tính Flexbox vào đây */
-/* ======================================================== */
-
-/* Khung chứa Menu (Cao 70px, nền màu đen #222) */
-.nav-bar {
-    height: 70px;
-    background-color: #222;
-    padding: 0 30px;
-    /* VIẾT CODE FLEXBOX CỦA BẠN Ở ĐÂY */
-}
-
-/* Nhóm liên kết Menu */
-.nav-links {
-    /* VIẾT CODE FLEXBOX CỦA BẠN Ở ĐÂY (NẾU CẦN) */
-}
-
-/* Khung chứa danh sách sản phẩm (Cao cố định 500px để thử nghiệm khoảng cách dòng) */
-.product-grid {
-    height: 500px;
-    background-color: #e2e8f0;
-    padding: 20px;
-    /* VIẾT CODE FLEXBOX CỦA BẠN Ở ĐÂY */
 }
