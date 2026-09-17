@@ -125,3 +125,6 @@ button:hover{
 .product-grid{
     display:flex ;
 }
+.product-item{
+    background-color:orange;
+}
