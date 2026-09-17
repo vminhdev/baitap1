@@ -126,6 +126,7 @@ button:hover{
 .product-grid{
     display:flex ;
     flex-wrap:wrap;
+    justify-content: space-evenly
 
 }
 .product-item{
