@@ -147,6 +147,6 @@ body > .nut{
     justify-content: center;
 }
 .btn{
-    text-decoration: none;
+    text-decoration: none;/* bỏ đi gạch chân của thẻ  */
 }
 
