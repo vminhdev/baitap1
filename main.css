@@ -191,3 +191,12 @@ body>.nut {
     text-decoration: none;
     /* bỏ đi gạch chân của thẻ  */
 }
+.btn--success{
+    background-color:
+}
+.btn--wran{
+background-color:
+}
+.btn--danger{
+    background-color:#ea4335;
+}
