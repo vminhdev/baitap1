@@ -142,6 +142,7 @@ body > .nut{
     height:200px;
     background-color:#fff;
     margin-top: 20px;
+    display:flex;
 }
 
 
