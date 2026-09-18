@@ -193,6 +193,7 @@ body>.nut {
     padding: 10px 30px;
     border-radius: 20px;
     cursor: pointer;
+    opacity: 0;
 
 
 }
