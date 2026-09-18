@@ -191,6 +191,7 @@ body>.nut {
     text-decoration: none;
     /* bỏ đi gạch chân của thẻ  */
     color:#fff;
+    padding:0 5px;
 }
 .btn--success{
     background-color:#4285f4;
