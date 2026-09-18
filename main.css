@@ -150,5 +150,6 @@ body > .nut{
     text-decoration: none;/* bỏ đi gạch chân của thẻ  */
     background-color:transparent;
     border:none;
+    outline: none;
 }
 
