@@ -211,6 +211,7 @@ body>.nut {
     background-color: #ea4335;
 }
 .btn--dislayble{
+    /*làm cho nút bấm ở dạng hết hiệu lực */
     opacity: 0.5 !important;
     cursor: default;
 
