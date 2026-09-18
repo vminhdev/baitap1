@@ -210,3 +210,6 @@ body>.nut {
 .btn--danger {
     background-color: #ea4335;
 }
+.btn--dislayble{
+    opacity: 0.5;
+}
