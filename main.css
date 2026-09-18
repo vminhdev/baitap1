@@ -190,14 +190,20 @@ body>.nut {
 .btn {
     text-decoration: none;
     /* bỏ đi gạch chân của thẻ  */
-    padding:10px 30px;
+    padding: 10px 30px;
+
+
 }
-.btn--success{
-    background-color:#4285f4;
+
+.btn--success {
+    background-color: #4285f4;
 }
-.btn--wran{
-background-color:#fbbc05;
+
+.btn--wran {
+    background-color: #fbbc05;
+    margin:0 20px;
 }
-.btn--danger{
-    background-color:#ea4335;
+
+.btn--danger {
+    background-color: #ea4335;
 }
