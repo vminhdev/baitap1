@@ -212,6 +212,6 @@ body>.nut {
 }
 .btn--dislayble{
     opacity: 0.5 !important;
-    
+    cursor: default;
 
 }
