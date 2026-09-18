@@ -191,6 +191,7 @@ body>.nut {
     text-decoration: none;
     /* bỏ đi gạch chân của thẻ  */
     padding: 10px 30px;
+    border-radius: 15px;
 
 
 }
