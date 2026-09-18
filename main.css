@@ -194,7 +194,7 @@ body>.nut {
     border-radius: 20px;
     cursor: pointer;
 }
-.btn:hover{
+/* .btn:hover{ */
     opacity: 0.8;
 }
 
